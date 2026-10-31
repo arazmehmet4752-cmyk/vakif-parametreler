@@ -4,4 +4,3 @@ Yıl|2026
 Brüt Asgari Ücret Tutarı|33030,00
 İl Kodu|047
 VAKIF|0007429
-Vakıf Müdürü|1344.04
