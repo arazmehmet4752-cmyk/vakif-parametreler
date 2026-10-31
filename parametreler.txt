@@ -1,6 +1,19 @@
 Plaintext
-Dönem|09
-Yıl|2026
 Brüt Asgari Ücret Tutarı|33030,00
-İl Kodu|047
 VAKIF|0007429
+ADEM PROJE|1025454
+VEFA PROJE|1039348
+DİĞER (AŞEVİ VB…....)|
+Vakıf Müdürü|1344.04
+Sosyal Yardım ve İnceleme Görevlisi|3353.03
+Büro Görevlisi|4110.03
+Yardımcı Hizmet Görevlisi|9112.01
+Geçici Personel|9112.06
+Koordinatör|1120.34
+Eğitici|1120.34
+Temizlik Görevlisi|9112.06
+15%|0|190000
+20%|190000|400000
+27%|400000|1500000
+35%|1500000|5300000
+Yasal Damga Vergisi Oranı|0,00759
