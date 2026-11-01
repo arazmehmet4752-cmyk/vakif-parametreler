@@ -1,4 +1,4 @@
-Plaintext
+GuncelVersiyon|1.1
 Brüt Asgari Ücret Tutarı|33030,00
 VAKIF|0007429
 ADEM PROJE|1025454
